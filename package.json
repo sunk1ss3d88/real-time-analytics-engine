@@ -1,0 +1,33 @@
+{
+  "name": "real-time-analytics-engine",
+  "version": "1.0.0",
+  "description": "Empower your applications with capabilities, providing actionable insights instantly.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunk1ss3d88/real-time-analytics-engine"
+  },
+  "author": "sunk1ss3d88",
+  "license": "MIT",
+  "dependencies": {
+    "real-time-analytics-engine": "1.0.0",
+    "engine-speed-gallery": "1.0.0",
+    "firebase": "1.0.0",
+    "body-parser": "1.0.0",
+    "cors": "1.0.0",
+    "redux": "1.0.0",
+    "express": "1.0.0",
+    "ejs": "1.0.0",
+    "web3-react": "1.0.0",
+    "axios": "1.0.0",
+    "xml2js": "1.0.0",
+    "solc": "1.0.0",
+    "react": "1.0.0",
+    "mongoose": "1.0.0",
+    "eslint": "1.0.0",
+    "passport": "1.0.0"
+  }
+}
